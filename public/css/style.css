@@ -2,19 +2,6 @@
     border: 1px solid black;
 } */
 
-body {
-    font-family: "Segoe UI" !important;
-}
-
-.brand-logo {
-    width: 60px;
-}
-
-.brand-text {
-    font-size: 18px;
-    display: inline-block;
-}
-
 nav .nav-item {
     margin-left: 30px;
     font-size: 16px;
@@ -30,22 +17,6 @@ section {
 
 .article .artikel-1, .article .artikel-2, .article .artikel-3 {
     height: 259px;
-}
-
-i.bi, i.fas {
-    color: #e62525;
-}
-
-.card {
-    border-top: 3px solid #e62525;
-}
-
-.event {
-    background: rgba(240, 250, 254, 0.78);
-}
-
-.event-hr, .staff-hr {
-    border-bottom: 2px solid #e62525;
 }
 
 .footer {

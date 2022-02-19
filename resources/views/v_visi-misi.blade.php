@@ -1,1 +1,0 @@
-@extends('templates.t_profil')

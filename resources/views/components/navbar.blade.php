@@ -1,24 +1,25 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-white">
     <div class="container">
       <a class="navbar-brand" href="/">
-        <img class="brand-logo me-3 w-25" src="img/logo/yayasan.jpg" alt="logo-rumah-quran-darul-falah" />
-        <span class="brand-text me-4">Yayasan Rumah Qur'an Cianjur</span>
+        <span class="brand-text me-4 fw-bold text-secondary">Yayasan <span class="text-danger">Rumah Quran</span> Cianjur
       </a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav ms-auto">
+          <li class="nav-item">
+            <a href="/" class="nav-link">Beranda</a>
+          </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
               Profil
             </a>
             <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
               <li><a class="dropdown-item" href="#">Struktur Program</a></li>
-              <li><a class="dropdown-item" href="#">Visi Misi</a></li>
+              <li><a class="dropdown-item" href="/visi_misi">Visi Misi</a></li>
               <li><a class="dropdown-item" href="#">Sejarah</a></li>
               <li><a class="dropdown-item" href="#">Prestasi</a></li>
-              <li><a class="dropdown-item" href="#">...</a></li>
             </ul>
           </li>
           <li class="nav-item dropdown">
@@ -45,14 +46,13 @@
           </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-              Community
+              Komunitas
             </a>
             <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
               <li><a class="dropdown-item" href="#">Q&A</a></li>
               <li><a class="dropdown-item" href="#">Testimonial</a></li>
               <li><a class="dropdown-item" href="#">Seminar</a></li>
               <li><a class="dropdown-item" href="#">Guru Berpengalaman</a></li>
-              <li><a class="dropdown-item" href="#">...</a></li>
             </ul>
           </li>
           <li class="nav-item dropdown">
@@ -74,7 +74,6 @@
               <li><a class="dropdown-item" href="#">Diniyah 'Ula</a></li>
               <li><a class="dropdown-item" href="#">SDIT</a></li>
               <li><a class="dropdown-item" href="#">Muadalah</a></li>
-              <li><a class="dropdown-item" href="#">...</a></li>
             </ul>
           </li>
         </ul>
