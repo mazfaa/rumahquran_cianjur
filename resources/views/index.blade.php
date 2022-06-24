@@ -7,14 +7,14 @@
           <div class="container mt-5">
             <div class="row text-center">
               <div class="col-md-12">
-                <img style="width: 100px;" src="img/logo/logo.png" alt="logo-rqdf" class="mx-auto mb-5">
+                <img style="width: 200px; margin-top: 20px;" src="img/logo/yayasan.jpg" alt="logo-rqdf" class="mx-auto mb-5">
               </div>
             </div>
             <div class="row text-center">
               <div class="col-md-12">
                 <div>
                   <h1 class="text-danger">Mencetak Generasi Qurani dan Rabbani yang bermanfaat untuk umat.</h1>
-                  <p class="text-secondary">
+                  <p class="mt-3 moto" style="font-size: 20px;">
                     Jadilah Generasi Qurani & Rabbani yang Cerdas, Kreatif dan Berakhlak mulia.
                   </p>
                 </div>
@@ -262,5 +262,11 @@
       </div>
     </div>
     </section>
+
+    <div class="wa-logo-float position-fixed" style="bottom: 25px; right: 25px;">
+      <a href="https://api.whatsapp.com/send/?phone=6285723398918&text&app_absent=0">
+        <img src="img/logo/wa.png" width="75">
+      </a>
+    </div>
   </x-slot>
 </x-master>

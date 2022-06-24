@@ -3,7 +3,7 @@
     <div class="container mt-5" data-aos="zoom-in" data-aos-offset="200">
       <div class="row text-center">
         <div class="col-md-12">
-          <img style="width: 100px;" src="img/logo/logo.png" alt="logo-rqdf" class="mx-auto mb-5">
+          <img style="width: 200px;" src="img/logo/yayasan.jpg" alt="logo-rqdf" class="mx-auto mb-5">
         </div>
       </div>
       <div class="row text-center">

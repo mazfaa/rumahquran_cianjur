@@ -27,10 +27,11 @@
               Program
             </a>
             <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-              <li><a class="dropdown-item" href="#">Pendaftaran Santri</a></li>
-              <li><a class="dropdown-item" href="#">Booster RQDF</a></li>
-              <li><a class="dropdown-item" href="#">Pelatihan Santri Quran</a></li>
-              <li><a class="dropdown-item" href="#">Program Orang Tua Asuh</a></li>
+              <li><a class="dropdown-item" href="/pendaftaran">Pendaftaran Santri</a></li>
+              <li><a class="dropdown-item" href="/booster">Booster RQDF</a></li>
+              <li><a class="dropdown-item" href="/psq">Pelatihan Santri Quran</a></li>
+              <li><a class="dropdown-item" href="/ota">Program Orang Tua Asuh</a></li>
+              <li><a class="dropdown-item" href="/wakaf">Program Wakaf</a></li>
             </ul>
           </li>
           <li class="nav-item dropdown">

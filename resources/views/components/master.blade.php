@@ -16,7 +16,7 @@
 <link rel="stylesheet" href="css/style.css" />
 <title>Yayasan Rumah Quran Cianjur - {{ $page_title }}</title>
 </head>
-<body>
+<body class="position-relative">
 <x-navbar></x-navbar>
 {{ $slot }}
 
